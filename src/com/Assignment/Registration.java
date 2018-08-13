@@ -29,6 +29,7 @@ public class Registration extends HttpServlet {
 
 pm.print("hello");
 pm.print("welcome now");
+            pm.print("welcome again");
 
             //RequestDispatcher RD = req.getRequestDispatcher("LogInPage.html");
             //RD.include(req, resp);
