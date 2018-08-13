@@ -28,6 +28,7 @@ public class Registration extends HttpServlet {
             servletContext.setAttribute("password",P);
 
 pm.print("hello");
+pm.print("welcome now");
 
             //RequestDispatcher RD = req.getRequestDispatcher("LogInPage.html");
             //RD.include(req, resp);
